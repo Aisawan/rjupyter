@@ -36,4 +36,8 @@ print(a)
 a = 1
 print(a)
 ```
+```{r}
+df <-read.csv("D:/Programing/Rstudio/Dengue/dengue.csv")
+head(df)
+```
 
